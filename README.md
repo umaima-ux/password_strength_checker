@@ -45,7 +45,7 @@ Replace **app.py** with your actual script filename.
 ---
 
 ## 📷 Screenshot
-
+https://github.com/umaima-ux/password_strength_checker/blob/0178855c54de0c90a172a52db5fa1d0928aec07d/password-checker.png
 
 
 ## 🛠 Technologies Used
